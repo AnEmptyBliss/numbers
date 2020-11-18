@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Diego Lopez
+2. Student ID: 2378206
+3. Email: lopezramos@chapman.edu
+4. Class: CPSC-298-02
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -15,9 +15,9 @@ A bash script named “numbers.sh” that will
 1. numbers.sh
 2. numbers-input
 
-## Known Errors 
+## Known Errors: NONE
 
-## References
+## References: https://tldp.org/LDP/abs/html/comparison-ops.html
 
 ## Instructions
 To run the script with input from the included numbers-input file:
